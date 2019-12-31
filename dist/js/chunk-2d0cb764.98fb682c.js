@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cb764"],{"4a89":function(t,n,e){"use strict";e.r(n);var a=function(){var t=this,n=t.$createElement;t._self._c;return t._m(0)},c=[function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"dashboard-container"},[e("div",{staticClass:"app-container"},[t._v("学科添加")])])}],s={name:"SubjectsAdd",data:function(){return{}}},r=s,i=e("2877"),u=Object(i["a"])(r,a,c,!1,null,"e2b49314",null);n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0cb764.98fb682c.js.map

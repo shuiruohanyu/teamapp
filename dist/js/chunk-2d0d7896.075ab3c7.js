@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d7896"],{"76de":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},c=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"dashboard-container"},[t("div",{staticClass:"app-container"},[e._v("标签添加")])])}],s={name:"TagsAdd",data:function(){return{}}},r=s,i=t("2877"),d=Object(i["a"])(r,a,c,!1,null,"fb60e7ec",null);n["default"]=d.exports}}]);
+//# sourceMappingURL=chunk-2d0d7896.075ab3c7.js.map

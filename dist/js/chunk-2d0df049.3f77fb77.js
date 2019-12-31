@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0df049"],{"87b6":function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement;n._self._c;return n._m(0)},s=[function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"dashboard-container"},[e("div",{staticClass:"app-container"},[n._v("试题预览")])])}],r={name:"QuestionsPreview",data:function(){return{}}},c=r,i=e("2877"),u=Object(i["a"])(c,a,s,!1,null,"5b243a81",null);t["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0df049.3f77fb77.js.map
